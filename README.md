@@ -1,6 +1,11 @@
 # react-pdf-memory-issue
 
+Simple react-pdf test that creates 1000 PDF documents and prints memory usage.
+
+Example output from different versions of `@react-pdf/renderer`:
+
 ## 2.1.1
+https://github.com/karlandindrakryggen/react-pdf-memory-issue/tree/2.1.1
 ```
 npm start
 
@@ -16,7 +21,7 @@ arrayBuffers:  -1
 ```
 
 ## 2.1.2
-
+https://github.com/karlandindrakryggen/react-pdf-memory-issue/tree/2.1.2
 ```
 npm start
 
@@ -55,7 +60,7 @@ arrayBuffers:  -1
 ```
 
 ## 3.4.4
-
+https://github.com/karlandindrakryggen/react-pdf-memory-issue/tree/3.4.4
 ```
 npm start   
 
