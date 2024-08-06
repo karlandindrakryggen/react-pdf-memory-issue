@@ -2,6 +2,8 @@
 
 Simple react-pdf test that creates 1000 PDF documents and prints memory usage.
 
+Issue: https://github.com/diegomura/react-pdf/issues/2825
+
 Example output from different versions of `@react-pdf/renderer`:
 
 ## 2.1.1
