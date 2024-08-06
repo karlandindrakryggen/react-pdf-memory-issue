@@ -1,0 +1,11 @@
+{
+  "name": "react-pdf-memory-issue",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "2.1.1",
+    "react": "17.0.2"
+  }
+}
