@@ -1,5 +1,7 @@
 # react-pdf-memory-issue
 
+Update: The issue is probably fixed v 3.4.5
+
 Simple react-pdf test that creates 1000 PDF documents and prints memory usage.
 
 Issue: https://github.com/diegomura/react-pdf/issues/2825
